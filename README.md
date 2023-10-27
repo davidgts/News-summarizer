@@ -42,5 +42,5 @@ This project was contributed by [Davidgts](https://github.com/davidgts/News-summ
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) for details.
 
